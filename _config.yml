@@ -34,7 +34,7 @@ logo: /assets/favicon.ico
 # theme: minima
 
 markdown: kramdown
-theme: jekyll-theme-clean-blog
+remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 plugins:
 - jekyll-remote-theme 
 
