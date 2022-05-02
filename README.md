@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-site [here](company-of-candle-savants.github.io)
+site [here](https://company-of-candle-savants.github.io)
 
 You can use the [editor on GitHub](https://github.com/Company-of-Candle-Savants/company-of-candle-savants.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 

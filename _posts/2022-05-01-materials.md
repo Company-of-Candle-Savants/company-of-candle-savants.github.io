@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Candle Materials"
-date: 2022-05-02
+date: 2022-05-01
 categories: genius hour
 ---
 
