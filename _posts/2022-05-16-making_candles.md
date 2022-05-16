@@ -17,6 +17,16 @@ It consists of 70% mineral oil, 25% paraffin wax, and 5% microcrystalline wax.
 
 ## Butyl Sterate
 
-## Beeswax and C-1 Wax
+This candle mixture is also derived from a way to solidify different oils into a solid wax. Except this uses a different oil, Butyl Sterate, rather than Mineral Oil.
+
+It consists of 70% butyl sterate, 25% paraffin wax, and 5% microcrystalline wax.
+
+## Beeswax and NatureWax C-1
+
+NatureWax C-1 is an all natural industrial wax blend designed for candles with a make-up mostly consisting of soy wax and palm wax. We used this wax along with beeswax to produce a candle wax with much greater stiffness compared to the solidified mineral oils.
+
+It consists of 90% NatureWax C-1 and 10% beeswax.
 
 ## Everything
+
+This was a fun candle that we decided to make that combined all of the waxes that we had together.
