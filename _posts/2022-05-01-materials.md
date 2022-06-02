@@ -33,8 +33,10 @@ affects the chemical reactions that occurs during combustion, and physical prope
 - Composed mostly of long-chain alkanes
 
 #### Mineral Oil
-- Material formed through solidification of shorter chain oils and paraffin
 - Has a lower melting/softening point than paraffin
+- Clear, colourless liquid at room temperature
+- Made of shorter-chain hydrocarbon 'by-products'
+- Can be solidified through addition of paraffin wax
 
 ## Properties
 Long-chain organic compounds are very non-polar. The main intermolecular attractions are london-dispersion forces. Since
@@ -54,3 +56,4 @@ Both complete and incomplete combustion occurs in the flame of the candle. Due t
 in some parts of the flame. Due to the heat (pyrolysis), the long-chain organic compounds are split into several smaller
 organic compounds. This creates the 'soot' we see when a candle burns. These compounds can be volatile and potentially
 dangerous.
+https://www.chemistryviews.org/details/ezine/1369631/Chemistry_of_the_Christmas_Candle__Part_1/
