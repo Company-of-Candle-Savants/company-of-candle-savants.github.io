@@ -13,7 +13,9 @@ create the hardened waxes/candles to test with. We ended up making 4 different m
 At room temperature, the mineral oil was a clear, colourless liquid mixture of various different hydrocarbons. However,
 we were able to solidify the mixture by adding some paraffin wax into the mixture. The long-chain hydrocarbons in
 paraffin wax have stronger london dispersion forces, allowing it to bind together the shorter hydrocarbons.
-It consists of 70% mineral oil, 25% paraffin wax, and 5% microcrystalline wax.
+It consists of 70% mineral oil, 25% paraffin wax, and 5% microcrystalline wax. The purpose of the microcrystalline wax
+in candles is to better "hold" any scents that may be added. We found that the microcrystalline wax was pliable and much
+softer than the paraffin wax or the C1 wax, which was harder, and "brittle/crumbly".
 
 Compared to the C1 candle, which was the hardest, adding in mineral oil made the mixture softer. We found that dropping
 a 33.5g weight made an indenture to a depth of 10 mm, compared to the 1 mm depth when dropped on the C1 mixture. We also
@@ -24,8 +26,9 @@ it can be noticed while the candle was burning, and the evaluation of "soot" is 
 ## Butyl Stearate
 
 Butyl stearate was also liquid at room temperature, however it was made of a single type of hydrocarbon instead of a
-mixture. We solidified butyl stearate the same way: by adding in paraffin wax.
-It consists of 70% butyl sterate, 25% paraffin wax, and 5% microcrystalline wax.
+mixture. We solidified butyl stearate the same way: by adding in paraffin wax. Butyl Stearate is a material commonly
+used in cosmetics.
+The mixture consists of 70% butyl sterate, 25% paraffin wax, and 5% microcrystalline wax.
 
 Although similar in composition to the mineral oil we found that this mixture was slightly harder. The 33.5g weight made
 an indenture to a depth of 6mm, compared to 10mm for the mineral oil. Like the mineral oil, the candle was soft enough
@@ -37,8 +40,10 @@ burnt with similar brightness to the mineral oil mixture..
 
 NatureWax C-1 is an all natural industrial wax blend designed for candles with a make-up mostly consisting of soy wax
 and palm wax. We used this wax along with beeswax to produce a candle wax with much greater stiffness compared to the
-solidified mineral oils.
-It consists of 90% NatureWax C-1 and 10% beeswax.
+solidified mineral oils. The C1 wax went through a hydrogenation process. This is ideal as plant-based oils tend to be
+cis-unsaturated fats, which have a "kink" that interferes with london-dispersion forces. The hydrogenation process
+converts the fats into their trans isomers, which will bind to each other better.
+The mixture consists of 90% NatureWax C-1 and 10% beeswax.
 
 As both beeswax and C1 was solid at room temperature, it was unsurprising that this candle was the hardest candle we
 created. However, we still found that slight marks could be found by touching the candle. The 33.5g weight made an
