@@ -62,5 +62,33 @@ The candle-making process was quite simple. We first measured our ingredients an
 waiting for the mixture to cool a little, we proceeded to pour the mixture into jars. The container we used had to be
 quickly wiped down before the leftover wax solidified, as it is difficult to wash wax. After that we left our wax
 candles to solidify on a flat surface so the candle did not deform.
-
 Cleanup is difficult as wax is not water-soluble, so we had to be careful not to spill any material.
+
+# Testing
+
+We conducted three tests on each of our candles: a "heat" test that attempts to measure the energy released by the
+candle; a soot test to measure the amount of soot each candle produces; and a drop test to measure the hardness of the
+candles. Additionally, we measured some additional physical properties of the candles like the congealing and melting
+point of each mixture.
+
+In our heat test, we fill up a test tube with room-temperature water and heat it up with the candle flame. The test tube
+is held using a clamp and ring stand a set distance from the wick, and temperature is measured every 30 seconds, for 3
+minutes. Despite trying to keep the distance between the test tube and the wick constant for each candle, we still met
+some challenges. The size of the flame that each candle produces varies, and so candles with larger flames had a shorter
+distance to the test tube, heating it up faster.
+
+In our soot test, we use a similar setup but we flip the test tubes upside down so that the test tube captures the smoke
+produced by the candles. We let each candle burn for 3 minutes before stopping the test. Before lighting the candles we
+trimmed the wick. This helps to reduce soot, however this may not accurately represent an "average" use case.
+
+In our drop test, we drop a 33.5g weight from a set height at SATP. We measured the depth by marking the point on the
+weight and measuring the length with a ruler.
+
+Measuring the melting and congealing points were challenging. For our measurements, we took a sample of each candle and
+melted it down. However, it was difficult to judge when each sample was "sufficiently" melted. It was also difficult to
+judge when a melted sampled congealed. A laser thermometer was used to measure the temperature, and when a sample
+melted/congealed was determined qualitatively.
+
+We also took some additional measurements of the candle in between tests. Our "soot" temperature was obtained by
+measuring the sooty part of the wick after putting the candle out. The "soup" temperature was obtained by measuring the
+"liquid soup" around the base of the wick. We used a laser thermometer to measure the temperatures.
