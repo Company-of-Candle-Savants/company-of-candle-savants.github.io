@@ -14,8 +14,9 @@ At room temperature, the mineral oil was a clear, colourless liquid mixture of v
 we were able to solidify the mixture by adding some paraffin wax into the mixture. The long-chain hydrocarbons in
 paraffin wax have stronger london dispersion forces, allowing it to bind together the shorter hydrocarbons.
 It consists of 70% mineral oil, 25% paraffin wax, and 5% microcrystalline wax. The purpose of the microcrystalline wax
-in candles is to better "hold" any scents that may be added. We found that the microcrystalline wax was pliable and much
-softer than the paraffin wax or the C1 wax, which was harder, and "brittle/crumbly".
+in candles is to prevent syneresis. Syneresis is when components come out of the "wax solution" which can occcur with
+scents at cool temperatures. We found that the microcrystalline wax was pliable and much softer than the paraffin wax or
+the C1 wax, which was harder, and "brittle/crumbly".
 
 Compared to the C1 candle, which was the hardest, adding in mineral oil made the mixture softer. We found that dropping
 a 33.5g weight made an indenture to a depth of 10 mm, compared to the 1 mm depth when dropped on the C1 mixture. We also
